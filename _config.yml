@@ -1,14 +1,14 @@
 # main text of home
 name: Joálisson Andrade
-bio: Businessman & Full Stack Developer
+bio: Businessman e Full Stack Developer
 
 # twitter summary info
 description: Desenvolvimento, Empreendedorismo e Alta Perfomance
 
 # if it's an external image, update below for true
 # better with square images
-external-image: true
-picture: https://scontent.fssa12-1.fna.fbcdn.net/v/t1.0-9/21430506_1624088417662396_1497654642829637954_n.jpg?_nc_cat=0&oh=a264f994901d805b2641866950fef443&oe=5BB45943
+external-image: false
+picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -51,19 +51,19 @@ medium: joalisson
 # lanyrd: mylanyrd
 email: joalisson.as@gmail.com
 
-authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
-        external-image: false
-        picture: assets/images/profile.jpg
-        twitter: johndoe
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/profile.jpg
-        twitter: jamesfoster
+# authors:
+#     johndoe:
+#         name: John Doe
+#         bio: A Man who travels the world eating noodles
+#         external-image: false
+#         picture: assets/images/profile.jpg
+#         twitter: johndoe
+#     jamesfoster:
+#         name: James Foster
+#         bio: A Man who develops software with coffee
+#         external-image: false
+#         picture: assets/images/james.jpg
+#         twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
