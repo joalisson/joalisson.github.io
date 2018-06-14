@@ -7,7 +7,7 @@ description: Desenvolvimento, Empreendedorismo e Alta Perfomance
 
 # if it's an external image, update below for true
 # better with square images
-external-image: true
+external-image: false
 picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
@@ -78,7 +78,7 @@ width: normal
 projects: false
 
 # if you don't need "about" or "blog", comment them out below
-about: false
+about: true
 blog: true
 
 # do you want to show the "read time" of the posts?
