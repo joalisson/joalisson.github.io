@@ -42,7 +42,7 @@ layout: compress
         {% if page.tag %}
             <div class="post">
         {% else %}
-            {% if showHeader === true %}
+            {% if showHeader != true %}
                 <div class="page {{ page.title | downcase }}">
             {% else %}
                 <div class="{{ page.title | downcase }}">
