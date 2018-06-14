@@ -3,12 +3,12 @@ name: Joálisson Andrade
 bio: Full Stack developer
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: Desenvolvimento, Empreendedorismo e Alta Perfomance
 
 # if it's an external image, update below for true
 # better with square images
 external-image: true
-picture: https://scontent.fssa12-1.fna.fbcdn.net/v/t1.0-9/22853345_1677773038960600_7389808352586235366_n.jpg?oh=c323eb0ebaf253e2191e67adee3e58da&oe=5B211B22
+picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -22,7 +22,7 @@ url: http://joalisson.github.io
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-# analytics-google: 'UA-MYANALYTICS'
+analytics-google: 'UA-120920145-1'
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
@@ -37,7 +37,7 @@ disqus:
 facebook: joalisson.andrade
 twitter: joalisson_
 # google: mygoogle
-# instagram: myinstagram
+instagram: joalisson.andrade
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
@@ -52,19 +52,19 @@ medium: joalisson
 # lanyrd: mylanyrd
 email: joalisson.as@gmail.com
 
-authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
-        external-image: false
-        picture: assets/images/profile.jpg
-        twitter: johndoe
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
+# authors:
+#     johndoe:
+#         name: John Doe
+#         bio: A Man who travels the world eating noodles
+#         external-image: false
+#         picture: assets/images/profile.jpg
+#         twitter: johndoe
+#     jamesfoster:
+#         name: James Foster
+#         bio: A Man who develops software with coffee
+#         external-image: false
+#         picture: assets/images/james.jpg
+#         twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
